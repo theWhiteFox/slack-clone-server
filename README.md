@@ -5,7 +5,7 @@ http://localhost:8080/graphiql
 
    List of relations
  Schema |      Name       |   Type   |  Owner
---------+-----------------+----------+---------
+| ----- |:---------------:| --------:| ------:|
  public | channels        | table    | stephen
  public | channels_id_seq | sequence | stephen
  public | member          | table    | stephen
