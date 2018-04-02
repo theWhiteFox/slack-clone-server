@@ -1,9 +1,10 @@
 # slack clone server 
 Slack Clone Using GraphQL and React
 
-http://localhost:8080/graphiql
+[localhost:8080](http://localhost:8080/graphiql "localhost:8080")
 
-   List of relations
+Table list of relations
+   
 | Schema |      Name       |   Type   |  Owner  |
 | :----  | :-------------- | :------- | :------ |
 | public | channels        | table    | stephen |
@@ -17,3 +18,5 @@ http://localhost:8080/graphiql
 | public | users_id_seq    | sequence | stephen |
 
 (9 rows)
+
+[graphql vs rest overview](https://philsturgeon.uk/api/2017/01/24/graphql-vs-rest-overview/ "graphql vs rest overview")
