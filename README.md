@@ -21,4 +21,4 @@ Table list of relations
 
 [graphql vs rest overview](https://philsturgeon.uk/api/2017/01/24/graphql-vs-rest-overview/ "graphql vs rest overview")
 
-![ER Diagram]({{site.baseurl}}/https://raw.githubusercontent.com/theWhiteFox/slack-clone-server/master/img/Database%20ER%20Diagram.png)
+![]({{site.baseurl}}/https://raw.githubusercontent.com/theWhiteFox/slack-clone-server/master/img/Database%20ER%20Diagram.png)
