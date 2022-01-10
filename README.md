@@ -1,4 +1,4 @@
-# slack clone server 
+# Slack Clone
 Slack Clone Using GraphQL and React
 
 [localhost:8080](http://localhost:8080/graphiql "localhost:8080")
